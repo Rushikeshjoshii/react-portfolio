@@ -1,0 +1,80 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png",
+        "title": "ReactJS",
+        "description": "Developed reactive we components using React workflows.Used Redux API,Router,ContextAPI."
+      },
+      {
+        "id": "2",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png",
+        "title": "Javascript",
+        "description": "Good knowledge JS concepts,closures,FetchAPI,Promises along with JS Collections."
+      },
+      {
+        "id": "3",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png",
+        "title": "HTML5",
+        "description": "Intgrating the HTML in react app developemnt with JSX"
+      },
+      {
+        "id": "4",
+        "src": "https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png",
+        "title": "CSS3",
+        "description": "Applying the desired styles as per client requirements with help of css modules in react app"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/Brand-Home-SS.jpg",
+        "title": "Brand-Home",
+        "description": "An E-Commerce we platform acting as dummy store for oline shoes purchase.Made in ReactJS with Firebase API as dummy backend,along with real time authentication.",
+        "link": "Go to Project",
+        "path":"https://courageous-nasturtium-6093d7.netlify.app/"
+      },
+      {
+        "id": "2",
+        "src": "./img/Crypto-Monnitor.jpg",
+        "title": "Crypto-Monitor",
+        "description": "Web applicatio dedicated to track real time Crypto currrency prices and changes over the period.Use of public crypto API to get the required data and contextAPI to manage state.",
+        "link": "Go to Project",
+        "path":"https://6583d5b6bd2a38afefdf0f81--lustrous-salamander-05587d.netlify.app/"
+      },
+      {
+        "id": "3",
+        "src": "/img/Dashboard.jpg",
+        "title": " Sales DashBoard",
+        "description": "Sales dashboard to track the sales data and make informed bussiness decisions.Use of CSS animations for visual aniamtions.",
+        "link": "Go to Project",
+        "path":"https://6583d7808c16a8b047df4a80--sage-mochi-d398bf.netlify.app/"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
