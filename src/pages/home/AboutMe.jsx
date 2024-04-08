@@ -10,7 +10,7 @@ const AboutMe = () => {
         <div className='aboutme-paras'>
           <h2>About Me</h2>
           <p>Thanks for visiting!</p>
-          <p style={{color:'gray',fontSize:'15px'}}>Hi there,myself Rushikesh Joshi.Currently working as Software Engineer-FrontEnd.</p>
+          <p style={{color:'gray',fontSize:'15px'}}>Hi there,myself Rushikesh Joshi.Currently working as FullStack Developer.</p>
           <p style={{ display:'flex',flexDirection:'column',gap:"5px"}}>
             You can connect with me :
             <p style={{ display:'flex',alignItems:'center',gap:'2px',color:'blue'}}>rushikeshjoshi043@gmail.com</p>

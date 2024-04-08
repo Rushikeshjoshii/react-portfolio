@@ -19,7 +19,8 @@ const Dailog = ({open,setOpen,handleClose}) => {
             <DialogContent>
               <DialogContentText>
                 To get in touch enter following details and my team will get
-                back to you.
+                back to you.<br/>
+                Feel free to reach out to get your business online.
               </DialogContentText>
               <TextField
                 autoFocus
